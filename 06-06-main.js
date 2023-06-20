@@ -10,3 +10,4 @@ console.log(isSymmetricNumber(10));
 console.log(isSymmetricNumber(10));
 console.log(isSymmetricNumber(10));
 console.log(isSymmetricNumber(10));
+console.log(isSymmetricNumber(9));
